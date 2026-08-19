@@ -3,11 +3,11 @@ An end-to-end Computer Vision and Deep Learning system for **facial analysis**, 
 
 The system takes a face image as input, identifies important facial keypoints, predicts the person's emotion, and displays the prediction confidence through an interactive user interface.
 
-## Demo
+
 
 ### Emotion AI Interface
 
-![Emotion AI Interface](assets/emotion-ai-ui.png)
+![Emotion AI Interface](emotion-ai-ui.png)
 
 The application provides an interactive interface where users can upload a face image and receive:
 
